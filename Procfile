@@ -1,1 +1,1 @@
-web: gunicorn database_image.wsgi
+web: gunicorn database_image.wsgi --log-file -
