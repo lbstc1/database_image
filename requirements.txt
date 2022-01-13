@@ -8,7 +8,7 @@ django-heroku==0.3.1
 filelock==3.0.12
 gunicorn==20.0.4
 obj==124
-Pillow==7.0.0
+Pillow==9.0.0
 pipenv==2018.11.26
 psycopg2==2.8.4
 python-decouple==3.3
